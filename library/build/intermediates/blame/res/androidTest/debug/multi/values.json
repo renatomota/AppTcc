@@ -1,0 +1,83 @@
+[
+    {
+        "outputFile": "C:\\Users\\Renato\\Desktop\\Android code\\FloatingActionButton-master\\library\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 3846,
+                    "endColumn": 44,
+                    "endOffset": 3886
+                },
+                "from": {
+                    "file": "C:\\Users\\Renato\\Desktop\\Android code\\FloatingActionButton-master\\library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 3846,
+                        "endColumn": 44,
+                        "endOffset": 3886
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 3891,
+                    "endColumn": 46,
+                    "endOffset": 3933
+                },
+                "from": {
+                    "file": "C:\\Users\\Renato\\Desktop\\Android code\\FloatingActionButton-master\\library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 3891,
+                        "endColumn": 46,
+                        "endOffset": 3933
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 3938,
+                    "endColumn": 47,
+                    "endOffset": 3981
+                },
+                "from": {
+                    "file": "C:\\Users\\Renato\\Desktop\\Android code\\FloatingActionButton-master\\library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 3938,
+                        "endColumn": 47,
+                        "endOffset": 3981
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 3986,
+                    "endColumn": 38,
+                    "endOffset": 4020
+                },
+                "from": {
+                    "file": "C:\\Users\\Renato\\Desktop\\Android code\\FloatingActionButton-master\\library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 3986,
+                        "endColumn": 38,
+                        "endOffset": 4020
+                    }
+                }
+            }
+        ]
+    }
+]

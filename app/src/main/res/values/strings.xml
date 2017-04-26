@@ -1,0 +1,81 @@
+<resources>
+    <string name="app_name">APP with Toolbar Teste</string>
+    <string name="hSenha">Senha</string>
+    <string name="hLogin">Usuário</string>
+    <string name="texto_compartilhar">Olá, estou te recomendando esse app</string>
+    <string name="acao_pesquisar">Pesquisar</string>
+    <string name="acao_novo">Novo</string>
+
+    <string name="navigation_drawer_open">Selecione uma opção</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Opções</string>
+
+    <item name="visible" type="id" />
+    <item name="masked" type="id" />
+    <string name="title_activity_mapa">Mapa</string>
+
+
+    <string name="erro_gps">É necessário habilitar a configuração de localização para utilizar o aplicativo.</string>
+
+    <string name="msg_buscar">Buscando endereço…</string>
+    <string name="origem">Origem</string>
+    <string name="destino">Destino</string>
+    <string name="titulo_lista_endereco">Selecione o destino</string>
+    <string name="msg_rota">Traçando rota…</string>
+    <string name="local_atual">Local atual</string>
+
+    <string name="erro_local">Você deve habilitar as permissões para utilizar o aplicativo.</string>
+    <string name="title_activity_login">Bem vindo !</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Senha (Opcional)</string>
+    <string name="action_sign_in">Entrar/Cadastro</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">Esse email não é valido</string>
+    <string name="error_invalid_password">A senha digita é muito curta</string>
+    <string name="error_incorrect_password">Essa senha é incorreta</string>
+    <string name="error_field_required">Esse campo é necessário</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="senhas_iguais">As senhas não coincidem</string>
+    <string name="error_email_existe">Email digitado já está cadastrado !</string>
+
+    <!--Strings da tela de cadatro -->
+    <string name="cad_email">Email</string>
+    <string name="cad_senha">Senha</string>
+    <string name="cad_reSenha">Confirme a senha</string>
+
+    <array name="estados">
+        <item>AC</item>
+        <item>AL</item>
+        <item>AP</item>
+        <item>AM</item>
+        <item>BA</item>
+        <item>CE</item>
+        <item>DF</item>
+        <item>ES</item>
+        <item>GO</item>
+        <item>MA</item>
+        <item>MT</item>
+        <item>MS</item>
+        <item>MG</item>
+        <item>PA</item>
+        <item>PB</item>
+        <item>PR</item>
+        <item>PE</item>
+        <item>PI</item>
+        <item>RJ</item>
+        <item>RN</item>
+        <item>RS</item>
+        <item>RO</item>
+        <item>RR</item>
+        <item>SC</item>
+        <item>SP</item>
+        <item>SE</item>
+        <item>TO</item>
+    </array>
+    <string name="title_activity_add_ponto">AddPonto</string>
+</resources>

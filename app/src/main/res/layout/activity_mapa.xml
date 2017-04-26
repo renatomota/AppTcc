@@ -1,0 +1,53 @@
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:theme="@style/AppTheme.AppBarOverlay"
+    >
+
+    <include layout="@layout/layout_progresso"/>
+    <fragment
+        android:theme="@style/AppTheme.AppBarOverlay"
+        xmlns:map="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:id="@+id/mapa1"
+        android:name="com.google.android.gms.maps.SupportMapFragment"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="65dp"
+        tools:context="myideasforworld.toolbarteste.MapaActivity"
+        />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/common_google_signin_btn_text_light_focused"
+        android:elevation="15dp"
+
+        android:orientation="horizontal">
+
+        <EditText
+            android:id="@+id/edtLocal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:hint="Busque uma referencia"
+            android:textColor="@color/common_google_signin_btn_text_light_pressed"
+
+            android:textColorHint="@color/common_google_signin_btn_text_light" />
+
+        <ImageButton
+
+
+            android:id="@+id/imgBtnBuscar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:backgroundTint="@color/cardview_shadow_start_color"
+            android:backgroundTintMode="src_over"
+            android:onClick="onMapSearch"
+            android:src="@android:drawable/ic_menu_search" />
+
+    </LinearLayout>
+
+</FrameLayout>
